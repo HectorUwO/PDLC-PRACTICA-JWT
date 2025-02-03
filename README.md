@@ -12,4 +12,4 @@ node server.js
 3️⃣ Probamos nuestros gets y posts protegidos! 🚀
 <hr>
 Hector Yair Medrano Coronel <br>
-<font color="red">Este texto es rojo</font>
+Universidad Autonoma de Nayarit
