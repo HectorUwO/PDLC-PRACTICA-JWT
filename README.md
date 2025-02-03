@@ -1,6 +1,6 @@
 # Programacion Distribuida del Lado Cliente
 Práctica JWT <br>
-Esta practica requiere un **servidor NODE.JS**  <br>
+Esta practica requiere un **servidor NODE.JS**  <br> <br>
 1️⃣ Instalamos **jsonwebtoken**
 ```
 npm install jsonwebtoken express cors
