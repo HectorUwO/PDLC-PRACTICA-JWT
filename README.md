@@ -12,4 +12,4 @@ node server.js
 3️⃣ Probamos nuestros gets y posts protegidos! 🚀
 <hr>
 Hector Yair Medrano Coronel <br>
-**Universidad Autonoma de Nayarit**
+Universidad Autonoma de Nayarit
